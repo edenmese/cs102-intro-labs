@@ -33,6 +33,3 @@ This repository contains only the **lab assignments** completed during the 2021â
 
 > This repository was created as part of a personal archive before resetting my laptop.
 
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info.
